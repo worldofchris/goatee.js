@@ -50,3 +50,25 @@ _               _
 You get the idea. As long as they are palandromic you are good.
 
 TODO: Implement!
+
+```
+  """""""""""""
+ "             "
+   :         :
+   
+       _ _
+       
+_----++^ ^++----_
+_      ---      _
+~               ~
+
+
+                _))
+               > *\     _~
+               `;'\\__-' \_
+                  | )  _ \ \
+      ejm97*     / / ``   w w
+                w w
+
+```
+`*` - see [http://www.ascii-art.de/ascii/ghi/goat.txt](http://www.ascii-art.de/ascii/ghi/goat.txt)
